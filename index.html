@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Hubballi&family=Ubuntu:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://bootswatch.com/5/minty/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <!---sweet alert--->
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <title>Fabrica de medias</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <nav class="navigation"></nav>
+        <span class="cant--carrito">0</span>
+        <button class="btn-carrito" href="">
+          <img src="./img/carrito-de-compras.png" class="img-carrito" alt="" />
+        </button>
+      </header>
+
+      <div class="container">
+        <div class="sidebar"></div>
+        <div
+          id="divProductos"
+          class="row row-cols-1 row-cols-sm-2 row-cols-md-4"
+        ></div>
+      </div>
+      
+      <div class="ful-img" id="fulImgBox">
+         <img style="width: 50pc;"src="" id="fulImg" alt="" /> 
+        <span onclick="closeImg()" class="x-close">X</span>
+      </div>
+    </main>
+
+    <script src="./index.js"></script>
+  </body>
+</html>

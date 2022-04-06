@@ -1,0 +1,60 @@
+[
+  {
+    "nombre": "Media fuego",
+    "precio": 300,
+    "img": "MediaFuego.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 0
+  },
+  {
+    "nombre": "Media palta",
+    "precio": 300,
+    "img": "mediaPalta.jpeg",
+    "talle": " talle 2 a 6",
+    "id": 1
+  },
+  {
+    "nombre": "Media roja",
+    "precio": 300,
+    "img": "MediaRoja.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 2
+  },
+  {
+    "nombre": "Soquete conejo",
+    "precio": 250,
+    "img": "soqueteConejo.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 3
+  },
+  {
+    "nombre": "Soquete feliz",
+    "precio": 250,
+    "img": "soqueteFeliz.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 4
+  },
+  {
+    "nombre": "Soquete bordo",
+    "precio": 250,
+    "img": "SoqueteFlor.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 5
+  },
+
+  {
+    "nombre": "Soquete Rosa",
+    "precio": 250,
+    "img": "soqueteRosa.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 6
+  },
+
+  {
+    "nombre": "Media negra",
+    "precio": 300,
+    "img": "mediaNegra.jpeg",
+    "talle": "talle 2 a 6",
+    "id": 7
+  }
+]
