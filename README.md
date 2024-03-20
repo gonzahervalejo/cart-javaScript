@@ -6,7 +6,7 @@ This website is powered by JavaScript, HTML5, CSS3 and Bootstrap
 Install the dependencies and devDependencies and start the server.
 ---Follow the instructions--- 
 
-- gh repo clone gonzahervalejo/cart-javaScript
+- git clone https://github.com/gonzahervalejo/cart-javaScript.git
 
 - npm install | yarn 
 
